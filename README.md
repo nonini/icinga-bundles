@@ -1,5 +1,5 @@
-gipfl/icinga-bundles
-====================
+nonini/icinga-bundles
+=====================
 
 This library is a proxy stating to provide all libs provided by the Icinga Modules
 defined in `config.php`. Please run `composer/refresh-provided-libs` to refresh
